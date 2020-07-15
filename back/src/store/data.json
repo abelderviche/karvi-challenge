@@ -1,0 +1,498 @@
+[
+  {
+      "id": 611,
+      "name": "Captur",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 28,
+          "name": "Renault",
+          "image": "logo-renault.svg"
+      },
+      "versionIds": [
+          424,
+          425,
+          422,
+          420,
+          421
+      ],
+      "streghts": [
+          "aaaa"
+      ],
+      "weaknesses": [
+          "aaaa"
+      ],
+      "saving": 24535.8,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 21,
+          "name": "SUV & Crossover"
+      },
+      "karviPrice": {
+          "min": 70900
+      },
+      "fuelTypeId": 2,
+      "transmisionTypeId": 2,
+      "slug": "captur",
+      "minPrice": 83690,
+      "maxPrice": 100690
+  },
+  {
+      "id": 396,
+      "name": "Camaro Convertible",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          286
+      ],
+      "streghts": [
+          "aaaa"
+      ],
+      "weaknesses": [
+          "aaaa"
+      ],
+      "saving": 14520,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 16,
+          "name": "Esportivo"
+      },
+      "karviPrice": {
+          "min": 347890
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 2,
+      "slug": "camaro-convertible",
+      "minPrice": 383850,
+      "maxPrice": 383850
+  },
+  {
+      "id": 397,
+      "name": "Camaro Coupé",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          287
+      ],
+      "streghts": [
+          "aaaa"
+      ],
+      "weaknesses": [
+          "aaaa"
+      ],
+      "saving": 9012,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 16,
+          "name": "Esportivo"
+      },
+      "karviPrice": {
+          "min": 315990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 2,
+      "slug": "camaro-coupe",
+      "minPrice": 344090,
+      "maxPrice": 344090
+  },
+  {
+      "id": 612,
+      "name": "Cobalt",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          288
+      ],
+      "streghts": [
+          "Bom preço",
+          "Grande conforto interior.",
+          "O mais espaçoso em seu segmento.",
+          "Sensação de manuseio suave e agradável.",
+          "Otimização do consumo de rota devido à boa relação de transmissão."
+      ],
+      "weaknesses": [
+          "Apenas versão base (LT)",
+          "Design impessoal e discreto .",
+          "Alto consumo na cidade.",
+          "Tecnologia básica de segurança",
+          "Sem controle de estabilidade.",
+          "Posição de condução pode melhorar."
+      ],
+      "saving": 2311,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 17,
+          "name": "Sedã"
+      },
+      "karviPrice": {
+          "min": 62990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 1,
+      "slug": "cobalt",
+      "minPrice": 69990,
+      "maxPrice": 69990
+  },
+  {
+      "id": 709,
+      "name": "Cruze 2019",
+      "city": {
+        "id": 2,
+        "cityCode": "MAD",
+        "cityName": "Madrid"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          290,
+          291
+      ],
+      "streghts": [
+          "Bom preço",
+          "Excelente desempenho do motor.",
+          "Bom equipamento básico.",
+          "Equipamento muito completo nas versões completas.",
+          "Controle de estabilidade e tração em toda a faixa.",
+          "Aúdio muito completo."
+      ],
+      "weaknesses": [
+          "Nenhuma opção de teto solar.",
+          "Materiais de interior improváveis.",
+          "Cinto de segurança não ajustável em altura.",
+          "Espaço limitado nos bancos traseiros.",
+          "Tanque de combustível relativamente pequeno",
+          "Step ruim."
+      ],
+      "saving": 8928.5,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 17,
+          "name": "Sedã"
+      },
+      "karviPrice": {
+          "min": 79990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 2,
+      "slug": "cruze-2019",
+      "minPrice": 102690,
+      "maxPrice": 109990
+  },
+  {
+      "id": 614,
+      "name": "Cruze Sport 6 2019",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          293,
+          294
+      ],
+      "streghts": [
+          "Preço ",
+          "Desempenho"
+      ],
+      "weaknesses": [
+          "Deve sair de linha",
+          "Poucos equipamentos de série (versão LT)",
+          "Esportivo somente no nome"
+      ],
+      "saving": 6450.5,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 1,
+          "name": "Hatchback"
+      },
+      "karviPrice": {
+          "min": 88990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 2,
+      "slug": "cruze-sport-6-2019",
+      "minPrice": 102690,
+      "maxPrice": 109990
+  },
+  {
+      "id": 615,
+      "name": "Equinox",
+      "city": {
+        "id": 2,
+        "cityCode": "MAD",
+        "cityName": "Madrid"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          296,
+          297
+      ],
+      "streghts": [
+          "aaaa"
+      ],
+      "weaknesses": [
+          "aaaa"
+      ],
+      "saving": 20250,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 21,
+          "name": "SUV & Crossover"
+      },
+      "karviPrice": {
+          "min": 117990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 2,
+      "slug": "equinox",
+      "minPrice": 135190,
+      "maxPrice": 161190
+  },
+  {
+      "id": 616,
+      "name": "Joy 2020",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          299
+      ],
+      "streghts": [
+          "aaaa"
+      ],
+      "weaknesses": [
+          "aaaa"
+      ],
+      "saving": 3664,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 1,
+          "name": "Hatchback"
+      },
+      "karviPrice": {
+          "min": 47490
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 1,
+      "slug": "joy-2020",
+      "minPrice": 52150,
+      "maxPrice": 52150
+  },
+  {
+      "id": 617,
+      "name": "Montana 2019",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          301,
+          302
+      ],
+      "streghts": [
+          "Bom conforto de condução.",
+          "Elasticidade do motor.",
+          "Benefícios de segurança corretos."
+      ],
+      "weaknesses": [
+          "Cabine simples",
+          "Guzzling .",
+          "Má isolamento acústico.",
+          "Capacidade de carga limitada."
+      ],
+      "saving": 5081.5,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 18,
+          "name": "Picape"
+      },
+      "karviPrice": {
+          "min": 51900
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 1,
+      "slug": "montana-2019",
+      "minPrice": 59450,
+      "maxPrice": 71250
+  },
+  {
+      "id": 413,
+      "name": "Novo Onix",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          907,
+          908,
+          909,
+          910,
+          911,
+          938,
+          315
+      ],
+      "streghts": [
+          "aaaa"
+      ],
+      "weaknesses": [
+          "aaaa"
+      ],
+      "saving": 2359.285714285714,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 1,
+          "name": "Hatchback"
+      },
+      "karviPrice": {
+          "min": 50990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 1,
+      "slug": "novo-onix",
+      "minPrice": 53050,
+      "maxPrice": 75490
+  },
+  {
+      "id": 618,
+      "name": "Novo Onix Plus",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          304,
+          305,
+          306,
+          307,
+          308,
+          314
+      ],
+      "streghts": [
+          "Tecnologia",
+          "Consumo"
+      ],
+      "weaknesses": [
+          "Desempenho"
+      ],
+      "saving": 2720.8333333333335,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 17,
+          "name": "Sedã"
+      },
+      "karviPrice": {
+          "min": 59990
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 2,
+      "slug": "novo-onix-plus",
+      "minPrice": 63690,
+      "maxPrice": 79090
+  },
+  {
+      "id": 619,
+      "name": "Onix 2019",
+      "city": {
+        "id": 1,
+        "cityCode": "BUE",
+        "cityName": "Buenos Aires"
+      },
+      "brand": {
+          "id": 29,
+          "name": "Chevrolet",
+          "image": "logo-chevrolet.svg"
+      },
+      "versionIds": [
+          311,
+          309,
+          312,
+          313
+      ],
+      "streghts": [
+          "Equipamentos\r",
+          "Segurança \r",
+          "Consumo\r"
+      ],
+      "weaknesses": [
+          "Motor defasado (turbo)"
+      ],
+      "saving": 14630,
+      "isSuperOffer": false,
+      "segment": {
+          "id": 1,
+          "name": "Hatchback"
+      },
+      "karviPrice": {
+          "min": 46900
+      },
+      "fuelTypeId": 1,
+      "transmisionTypeId": 1,
+      "slug": "onix-2019",
+      "minPrice": 47490,
+      "maxPrice": 60990
+  }
+]

@@ -1,0 +1,19 @@
+.header{
+    background: white;
+    color:#0052cb;
+    display: flex;
+    align-items: center;
+    & .logo-link-container{
+        height: 35px;
+        .logo-link{
+            background-image: url('../../assets/karvi-logo.svg');
+            width: 168px;
+            height: 35px;
+            background-size: cover;
+            margin-right: 15px;
+            position: relative;
+            top: -4px;
+            display: inline-block;
+        }
+    }
+}

@@ -1,0 +1,8 @@
+export const GET_CARS_START = "GET_CARS_START";
+export const GET_CARS_SUCCESS = "GET_CARS_SUCCESS";
+export const GET_CARS_ERROR = "GET_CARS_ERROR";
+export const ADD_FILTER = "ADD_FILTER";
+export const GET_CITIES_START = "GET_CITIES_START";
+export const GET_CITIES_SUCCESS = "GET_CITIES_SUCCESS";
+export const GET_CITIES_ERROR = "GET_CARS_ERROR";
+

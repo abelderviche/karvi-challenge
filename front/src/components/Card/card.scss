@@ -1,0 +1,19 @@
+.kardvi{
+    margin:10px;
+    & .ant-card-body{
+
+        font-size: 16px;
+        & .name{
+            font-weight:700;
+        }
+        & .detail{
+            font-size: 12px;
+        }
+        & .price{
+            margin-top: 10px;
+            border-top: 1.2px solid #eeeeee;
+            padding-top: 10px;
+            font-weight: 700;
+        }
+    }
+}

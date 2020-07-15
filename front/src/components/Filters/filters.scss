@@ -1,0 +1,56 @@
+.filter{
+    border-top: 1px solid #dbdfe9;
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 0;
+    width: 100%;
+    &-title{
+        font-size: 16px;
+        font-weight: 700;
+        color: #07152b;
+    }
+    &-price-range{
+        display: flex;
+        justify-content: space-between;
+        & .item-range{
+            font-size: 16px;
+            color: #515968;
+            font-weight: lighter;
+            display: flex;
+            flex-direction: column;
+            & span{
+                font-weight: 700;
+                color: #0052cb;
+            }
+        }
+    }
+    & .selection-filter{
+        color: #515968;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        & .ant-btn{
+            border-radius: 5px;
+            padding: 4.5px 15px;
+            margin-right: 7px;
+            text-align: center;
+            margin-top: 5px;
+            background: transparent;
+            &.ant-btn-primary{
+                border-color: #0052cb;
+                background: #0052cb;
+                color:white;
+            }
+            &.ant-btn-default{
+                &:hover,&:active,&:focus{
+                    color: #0052cb;
+                    border-color: #0052cb;
+                }
+            }
+        }
+        & .ant-slider-track, .ant-slider-handle {
+            background-color: #0052cb;
+            border-color: #0052cb;
+        }
+    }
+}
