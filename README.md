@@ -7,11 +7,13 @@ By Abel Derviche
 - Para correr el front ir a la carpeta front y correr los siguientes comandos.
 
 > npm install
+
 > npm start
 
 - Para correr el back ir a la carpeta back y correr los siguientes comandos.
 
 > npm install 
+
 > npm run watch
 
 La app-front tiene estar corriendo en http://localhost:8080/ y la API en http://localhost:3001/
